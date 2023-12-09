@@ -4,7 +4,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ionutvmi.path-autocomplete"
+				"ionutvmi.path-autocomplete",
+				"Dart-Code.dart-code"
 			]
 		}
 	},
