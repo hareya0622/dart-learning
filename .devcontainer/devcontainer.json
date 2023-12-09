@@ -1,0 +1,13 @@
+{
+	"dockerFile": "Dockerfile",
+	"remoteUser": "vscode",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ionutvmi.path-autocomplete",
+				"Dart-Code.dart-code"
+			]
+		}
+	},
+	"onCreateCommand": ".devcontainer/onCreateCommand.sh"
+}
